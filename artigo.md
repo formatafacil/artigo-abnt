@@ -19,7 +19,18 @@ de um artigo. A seguir apresentamos como é o seu funcionamento.
 
 Os principais recursos utilizados na elaboração de artigos serão apresentados nesta seção.
 
-Texto do desenvolvimento. 
+## Itálico e negrito
+
+Nos textos elaborados utilizando as normas da ABNT as palavras estrangeiras como *software* e *et al* devem ser grifadas em itálico.
+
+Segundo a norma da ABNT, na seção de referências os títulos dos trabalhos podem ser grifados em **negrito** ou *itálico*.
+
+Para realizar estas formatações basta adicionar asteriscos:
+
+    **negrito**
+    *itálico*
+
+## Citação
 
 Citando Alguém:
 
