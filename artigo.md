@@ -40,6 +40,18 @@ Para criar uma subseção basta adicionar `##` (ou `###` para uma sub-sub-seçã
 
 A numeração das subseções também são automáticas, se acordo com a numeração da seção em que se encontra, de tal forma que a numeração das subseções poderiam ser: *2.1 Frutas* (subseção), *2.1.1 Banana* e *2.1.2 Maçã* (subsubseções).
 
+## Texto dos parágrafos
+
+Escrever um parágrafo é muito simples, basta digitar o texto (o espaço inicial do parágrafo é formatado automaticamente, sem necessitar de inserir espaços em branco ou *tab*).
+
+Diferente do Word, um parágrafo só termina quando você 
+insere uma linha em branco. Até lá, todo o texto é 
+considerado um único parágrafo.
+
+    Diferente do Word, um parágrafo só termina quando você 
+    insere uma linha em branco. Até lá, todo o texto é 
+    considerado um único parágrafo.
+
 ## Itálico e negrito
 
 Nos textos elaborados utilizando as normas da ABNT as palavras estrangeiras como *software* e *et al* devem ser grifadas em itálico.
