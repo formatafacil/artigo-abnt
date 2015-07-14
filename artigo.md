@@ -19,6 +19,18 @@ de um artigo. A seguir apresentamos como é o seu funcionamento.
 
 Os principais recursos utilizados na elaboração de artigos serão apresentados nesta seção.
 
+## Criando seções
+
+A criação de seções ou subseções não requer esforço para manter a formatação consistente. Para criar uma seção
+basta adicionar um `#` no início da linha, dar um espaço e colocar o título da seção, exemplo:
+
+    # Introdução
+    
+    Texto da seção aqui.
+    
+    # Desenvolvimento
+    # Conclusão
+
 ## Itálico e negrito
 
 Nos textos elaborados utilizando as normas da ABNT as palavras estrangeiras como *software* e *et al* devem ser grifadas em itálico.
