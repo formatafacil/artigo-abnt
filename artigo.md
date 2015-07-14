@@ -28,6 +28,13 @@ basta adicionar um `#` no início da linha, dar um espaço e colocar o título d
     # Desenvolvimento
     # Conclusão
 
+### Criando subseções
+
+Para criar uma subseção basta adicionar `##` (ou `###` para uma sub-sub-seção):
+
+    ### Criando uma subseção
+    #### Criando uma subsubseção
+
 ## Itálico e negrito
 
 Nos textos elaborados utilizando as normas da ABNT as palavras estrangeiras como *software* e *et al* devem ser grifadas em itálico.
