@@ -25,10 +25,11 @@ Nos textos elaborados utilizando as normas da ABNT as palavras estrangeiras como
 
 Segundo a norma da ABNT, na seção de referências os títulos dos trabalhos podem ser grifados em **negrito** ou *itálico*.
 
-Para realizar estas formatações basta adicionar asteriscos:
+Para realizar estas formatações basta adicionar asteriscos entre as palavras que você deseja formatar. `*`*itálico*`*`.
 
-    **negrito**
+    
     *itálico*
+    **negrito**
 
 ## Citação
 
