@@ -38,7 +38,7 @@ Para criar uma subseção basta adicionar `##` (ou `###` para uma sub-sub-seçã
     #### Banana
     #### Maçã
 
-A numeração das subseções também são automáticas, se acordo com a numeração da seção em que se encontra, de tal forma que a numeração das subseções poderiam ser: *2.1 Frutas*, *2.1.1 Banana* e *2.1.2 Maçã*.
+A numeração das subseções também são automáticas, se acordo com a numeração da seção em que se encontra, de tal forma que a numeração das subseções poderiam ser: *2.1 Frutas* (subseção), *2.1.1 Banana* e *2.1.2 Maçã* (subsubseções).
 
 ## Itálico e negrito
 
