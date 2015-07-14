@@ -51,6 +51,8 @@ considerado um único parágrafo.
     Diferente do Word, um parágrafo só termina quando você 
     insere uma linha em branco. Até lá, todo o texto é 
     considerado um único parágrafo.
+    
+    Esta frase iniciaria um novo parágrafo.
 
 ## Itálico e negrito
 
