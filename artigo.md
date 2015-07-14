@@ -1,4 +1,4 @@
-% Título do artigo
+% Formatafacil: produza artigos com as normas da ABNT
 % Autor
 % 201X
 
