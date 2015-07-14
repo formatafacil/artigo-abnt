@@ -84,6 +84,10 @@ Para formatar um parágrafo como citação basta adicionar `>` no início da lin
     humildade não floresce na insegurança das pessoas, mas na 
     segurança insegura dos cautos. (...)
 
+## Configurando a seção de Referências bibliografia
+
+A bibliografia é configuração em um arquivo separado.
+
 # Conclusão
 
 A conclusão do artigo vem aqui.
