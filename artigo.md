@@ -17,6 +17,8 @@ de um artigo. A seguir apresentamos como é o seu funcionamento.
 
 # Desenvolvimento
 
+Os principais recursos utilizados na elaboração de artigos serão apresentados nesta seção.
+
 Texto do desenvolvimento. 
 
 Citando Alguém:
