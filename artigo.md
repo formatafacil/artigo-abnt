@@ -63,10 +63,12 @@ arrogância do autoritário ou da autoritária. (FREIRE, 1997)
 
 Para formatar um parágrafo como citação basta adicionar `>` no início da linha:
 
-    > A arrogância do “sabe com quem está falando?”, a empáfia do *sabichão* incontido
-    no gosto de fazer conhecido e reconhecido o seu saber, nada disso tem que ver com a
-    *mansidão*, não com a apatia, do humilde. É que a humildade não floresce na
-    insegurança das pessoas, mas na segurança insegura dos cautos. (...)
+    > A arrogância do “sabe com quem está falando?”, a empáfia 
+    do *sabichão* incontido no gosto de fazer conhecido e 
+    reconhecido o seu saber, nada disso tem que ver com a
+    *mansidão*, não com a apatia, do humilde. É que a 
+    humildade não floresce na insegurança das pessoas, mas na 
+    segurança insegura dos cautos. (...)
 
 # Conclusão
 
