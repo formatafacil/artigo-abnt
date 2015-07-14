@@ -51,19 +51,22 @@ Para realizar estas formatações basta adicionar asteriscos entre as palavras q
 
 ## Citação
 
-Citando Alguém:
-
 > A arrogância do “sabe com quem está falando?”, a empáfia do *sabichão* incontido
 no gosto de fazer conhecido e reconhecido o seu saber, nada disso tem que ver com a
 *mansidão*, não com a apatia, do humilde. É que a humildade não floresce na
-insegurança das pessoas, mas na segurança insegura dos cautos. Por isso é que uma das
-expressões da humildade é a segurança insegura, a certeza incerta e não a certeza
-demasiado certa de si mesma. A postura do autoritário, pelo contrário, é sectária. A sua
+insegurança das pessoas, mas na segurança insegura dos cautos. (...)
+A postura do autoritário, pelo contrário, é sectária. A sua
 é a única verdade que necessariamente deve ser imposta aos demais. É na sua *verdade*
 que reside a *salvação* dos demais. O seu saber é “iluminador” da “obscuridade” ou da
 ignorância dos outros, que por isso mesmo devem estar submetidos ao saber e à
 arrogância do autoritário ou da autoritária. (FREIRE, 1997)
 
+Para formatar um parágrafo como citação basta adicionar `>` no início da linha:
+
+    > A arrogância do “sabe com quem está falando?”, a empáfia do *sabichão* incontido
+    no gosto de fazer conhecido e reconhecido o seu saber, nada disso tem que ver com a
+    *mansidão*, não com a apatia, do humilde. É que a humildade não floresce na
+    insegurança das pessoas, mas na segurança insegura dos cautos. (...)
 
 # Conclusão
 
