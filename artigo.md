@@ -22,12 +22,9 @@ Os principais recursos utilizados na elaboração de artigos serão apresentados
 ## Criando seções
 
 A criação de seções ou subseções não requer esforço para manter a formatação consistente. Para criar uma seção
-basta adicionar um `#` no início da linha, dar um espaço e colocar o título da seção, exemplo:
+basta adicionar um `#` no início da linha, dar um espaço e colocar o título da seção. Por exemplo, para criar um artigo com três seções com os títulos *Introdução, Desenvolvimento e Conclusão* basta digitar:
 
     # Introdução
-    
-    Texto da seção aqui.
-    
     # Desenvolvimento
     # Conclusão
 
