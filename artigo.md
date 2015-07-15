@@ -14,7 +14,6 @@ auxiliar os estudantes nesta tarefa de produção e formatação de trabalhos.
 Este documento é um exemplo de utilização desta ferramenta para produção
 de um artigo. A seguir apresentamos como é o seu funcionamento.
 
-
 # Desenvolvimento
 
 Os principais recursos utilizados na elaboração de artigos serão apresentados nesta seção.
