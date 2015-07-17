@@ -2,10 +2,10 @@
 
 Este repositório contém um modelo para produção de artigos com as normas da ABNT.
 
-## Links
+## Configuração
 
-- [Produção]
-
+1. [Edite este arquivo](https://github.com/formatafacil/artigo-abnt/edit/master/README.md)
+2. [Adicione um webhook](../../settings/hooks/new)
 
 # Normas utilizadas
 
