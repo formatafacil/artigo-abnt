@@ -8,6 +8,7 @@ Historicamente os estudantes costumam ter dificuldades para elaborar
 e formatar artigos utilizando as normas da ABNT (ou dos eventos que 
 desejam submeter seus artigos).
 
+
 A ferramenta [formatafacil](https://github.com/edusantana/formatafacil) propõe-se
 auxiliar os estudantes nesta tarefa de produção e formatação de trabalhos.
 
