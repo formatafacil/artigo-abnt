@@ -19,4 +19,4 @@ Norma NBR 6022
 
 ## Teste de lista
 
--[ ] Exibir mensagens de error?
+- [ ] Exibir mensagens de error?
